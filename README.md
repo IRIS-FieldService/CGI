@@ -1,0 +1,2 @@
+# CGI
+Competitive Gaming Insights
